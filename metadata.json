@@ -1,0 +1,6 @@
+{
+  "name": "Moreman",
+  "description": "Decentralized AI training dataset marketplace on Aptos powered by Shelby Protocol high-frequency paid reads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
