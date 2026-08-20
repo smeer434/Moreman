@@ -49,14 +49,9 @@ delisting on-chain |
 
 ## Repository
 
-- Live: 
-- Source: 
+- Live: https://mooreman.vercel.app/
+- Source: https://github.com/smeer434/Moreman
 
 ## Maintainer
 
 Smeer — [GitHub](https://github.com/smeer434)
-
-## Disclaimer
-
-This is an independent, unofficial project built using Shelby Protocol. 
-It is not developed, endorsed, or maintained by the Shelby team.
